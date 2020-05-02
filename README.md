@@ -1,2 +1,2 @@
-# nubank-interface-reactnative
-Replicando a interface do Nubank com React Native
+# Nubank Interface
+Replicando a interface do Nubank com React Native.
